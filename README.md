@@ -1,3 +1,6 @@
+Template project for the junior engineer position.  To get started checkout this repo, `npm install`, and `npm run` in the checked out directory which will open [http://localhost:3000]
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
